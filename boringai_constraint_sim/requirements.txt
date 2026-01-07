@@ -1,0 +1,16 @@
+# BoringAI Constraint Simulator - Dependencies
+#
+# This project uses only Python standard library modules.
+# No external dependencies are required.
+#
+# Minimum Python version: 3.9
+#
+# The following standard library modules are used:
+# - dataclasses (for data models)
+# - enum (for enumerations)
+# - json (for JSON parsing)
+# - argparse (for CLI)
+# - unittest (for testing)
+# - pathlib (for file paths)
+# - typing (for type hints)
+# - sys (for exit codes and stderr)

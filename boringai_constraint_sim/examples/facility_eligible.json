@@ -1,0 +1,12 @@
+{
+  "facility_name": "Austin Distribution Center",
+  "min_aisle_width_ft": 10.5,
+  "has_separated_paths": true,
+  "human_traffic_density": "low",
+  "has_closed_operating_window": true,
+  "layout_stability": "stable",
+  "chronic_destination_saturation": false,
+  "tote_standardization": true,
+  "safety_governance_maturity": "strong",
+  "notes": "Well-organized facility with dedicated automation lanes and off-hours deployment window. Ideal candidate for Empty Tote Return automation."
+}
