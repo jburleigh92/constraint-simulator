@@ -1,0 +1,12 @@
+{
+  "facility_name": "Phoenix Fulfillment Hub",
+  "min_aisle_width_ft": 7.5,
+  "has_separated_paths": false,
+  "human_traffic_density": "high",
+  "has_closed_operating_window": false,
+  "layout_stability": "frequent_change",
+  "chronic_destination_saturation": true,
+  "tote_standardization": false,
+  "safety_governance_maturity": "weak",
+  "notes": "High-density facility undergoing frequent reconfiguration. Multiple safety and operational concerns identified. Not suitable for automation at this time."
+}
